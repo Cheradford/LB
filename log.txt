@@ -1,0 +1,11 @@
+Player: Coordinates{x=2, y=0}
+Exit: Coordinates{x=2, y=3}
+Координаты преград: 
+	1 Coordinates{x=2, y=2}
+	2 Coordinates{x=1, y=1}
+	3 Coordinates{x=3, y=2}
+	4 Coordinates{x=3, y=2}
+	5 Coordinates{x=4, y=2}
+Coordinates{x=2, y=1}
+Coordinates{x=1, y=2}
+Coordinates{x=2, y=3}
